@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Marc+%F0%9F%91%8B;Python+%E2%80%A2+Java+%E2%80%A2+Kotlin;Automatizando+lo+que+se+repite;Siempre+aprendiendo+algo+nuevo)](https://github.com/Meji87)
 
 <!-- Rellena o borra estos badges de contacto -->
-[![Email](https://img.shields.io/badge/Email-TU_EMAIL-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-m.mestres87@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m.mestres87@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc_Mestres-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
 [![GitHub](https://img.shields.io/badge/GitHub-Meji87-181717?style=flat&logo=github&logoColor=white)](https://github.com/Meji87)
 
